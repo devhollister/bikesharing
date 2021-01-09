@@ -22,11 +22,11 @@ As can be seen above, the vast majority of Citibike riders are subscribers (81.0
 
 ### Trip Length 
 
-One important factor in determing shit is trip length. As shown below, trip length is generally greatest and least at 
+One important factor in understanding bike-share useage is trip length. In the graphic shown below, that number of bikes increased with trip duration up about the fifth hour, and from six hours onward the number of bikes used for such trips decreased steadily.
 
 ![](images/triplength.png)
 
-When trip length is broken down by gender, it can be seen that 
+When trip length is broken down by gender, it can be seen that female ridership and male ridership generally track each other, though the curve in male ridership is more slightly steep, indicating a larger discrepency between male ride times. For riders of unknown gender, the number of rides seems to be roughly the same every trip length from zero to 24 hours. 
 
 ![](images/triplength_gender.png)
 
@@ -46,5 +46,11 @@ When broken down by user type, it can be seen that one-time customers are more l
 
 ## Summary
 
-In general, it can be seen that. It is important that the new business strategy has blah blah. Useful future analysis could include 
+### Gender Breakdown and the Importance of Female Ridership 
+
+From the analysis above, it can understood that temporal usage patterns for males and females are roughly the same, with trip lengths of around five hours being the most popular and with weekends and weekday commuting times being the most popular time to take out a bike. It should be noted however, that bike-share users are much more likely to be male. Marketing should reflect this knowledge by ensuring to get the attention of potential male users, but it can also be leveraged to increase female ridership. Furthermore, safety features could be implemented on the bikesto make female riders feel safer, as the analysis shows that females riders are less likely to take out a bike in the late hours of night or the early morning. Increasing female ridership should be a major goal, as increased female ridership could help account for the difference in population between New York and Des Moines. Additional visualizations should be made identify whether males or females more likely to be subscribers, as getting more females to subscribe may be a useful tactic in increasing female ridership. 
+
+### Trip Length
+
+As shown above, more bikes were used for trips around five hours than any other trip length. As the workday for most people is longer than five hours, it may be concluded that many of these five hour trips are made as weekend rides. One useful future analysis would be to analize trip length by day of the week, in addition to by gender, to determine whether this assumption is true and to identify possible opportunities to incentivise a certain type of ride. For example, if most five hour rides are indeed taken on the weekend, creating a route with lists of sights and activities in Des Moines designed to take five hours could encourage this type of trip. This may be more important in a city such as Des Moines, which is vastly smaller than New York City. At the core of this issue is the question of what is the optimal ride length in terms of profit per ride, and more analysis should be made in this realm as well.  
 

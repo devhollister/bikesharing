@@ -32,13 +32,15 @@ When trip length is broken down by gender, it can be seen that
 
 ### Trips by Weekday 
 
+The following heat map shows the most popular times for Citibike users broken down by day of the week and then further by hour. It can be seen that the most popular time to use a Citibike are weekdays during work commute times, approximatel 6am-9am and 4pm-7pm. Weekends 9am to 7pm are also very popular. There is very little usage between midnight and 6am. 
+
 ![](images/trips_weekday.png)
 
-When broken down by gender, 
+When users are categorized by gender, it can be seen that ridership patterns between genders is relatively similar. One noted difference may be that male usage, in addition to being greater over all, continues later into the night and potentially starts earlier than female useage. The chart also shows that riders of unknown gender ride more on the weekends than weekdays. 
 
 ![](images/trips_gender.png)
 
-When broken down by user type,
+When broken down by user type, it can be seen that one-time customers are more likely to be weekend riders than weekday commuters. Subcribers are in greater numbers weekday commuters, and their useage patterns is generally consistent between males and females. Riders who do not wish to report their gender are more often one-time costumers than subrscribers and are generally riding on the weekend. 
 
 ![](images/trip_day_gender.png)
 

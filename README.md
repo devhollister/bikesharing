@@ -12,14 +12,15 @@ The following is an analysis of Citibike data from New York City for the month o
 
 Citibike riders can be categorized by whether they are regular customer or subscribers and by gender. As both distinctions inform the analysis to follow, the breakdown of riders by customer type and by gender are shown below. 
 
-![]()
+![](images/customers.png)
 
 As can be seen above, the vast majority of Citibike riders are subscribers (81.07% vs 18.93%). Furthermore, the majority of Citibike riders are male (65.28% vs 25.10% female).
 
-![]()
-![]()
-![]()
-![]()
+![](images/triplength.png)
+![](images/triplength_gender.png)
+![](images/trips_weekday.png)
+![](images/trips_gender.png)
+![](images/trip_day_gender.png)
 
 
 ## Summary

@@ -10,6 +10,8 @@ The following is an analysis of Citibike data from New York City for the month o
 
 ## Results 
 
+Interactive versions of all of the following graphics can be found at [this link](https://public.tableau.com/shared/NCH6J47C7?:display_count=y&:origin=viz_share_link).
+
 Citibike riders can be categorized by whether they are regular customer or subscribers and by gender. As both distinctions inform the analysis to follow, the breakdown of riders by customer type and by gender are shown below. 
 
 ![](images/customers.png)
